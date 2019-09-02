@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099460897844",
+    "firebase_url": "https://minipro-3239.firebaseio.com",
+    "project_id": "minipro-3239",
+    "storage_bucket": "minipro-3239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099460897844:android:ab4610c53063efbe",
+        "android_client_info": {
+          "package_name": "com.VirtualStudio.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099460897844-tp6hlchp33eeo3i9t3195fjql2di6f9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VirtualStudio.dingdong",
+            "certificate_hash": "a89f817dd17a0428158175178ed9f141bd705ee4"
+          }
+        },
+        {
+          "client_id": "1099460897844-7fssmneoogj2814u9u65o9osgvpen3i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbI3vGMH9eNxHlGthBvXhW-lHH04vyMOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099460897844-7fssmneoogj2814u9u65o9osgvpen3i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
